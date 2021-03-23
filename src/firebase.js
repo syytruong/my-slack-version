@@ -1,8 +1,7 @@
 import firebase from 'firebase';
 
-//AIzaSyBkPJUAYuYzERVwpkNboXpPuGrA88S2PVs
 const firebaseConfig = {
-  apiKey: 'AIzaSyBkPJUAYuYzERVwpkNboXpPuGrA88S2PVs',
+  apiKey: 'YOUR_API_KEY_HERE',
   authDomain: 'my-slack-version.firebaseapp.com',
   projectId: 'my-slack-version',
   storageBucket: 'my-slack-version.appspot.com',
